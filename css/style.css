@@ -1249,7 +1249,7 @@ h2 {
 }
 
 /* line 97, /scss/_slider.scss */
-.slider_area .title_text h1 {
+.slider_area .title_text h2 {
   font-size: 50px;
   margin-bottom: 0 !important;
   text-transform: uppercase;
@@ -1269,11 +1269,12 @@ h2 {
   color: #fff;
   font-weight: 300;
   font-size: 25px !important;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
   /* line 97, /scss/_slider.scss */
-  .slider_area .title_text h1 {
+  .slider_area .title_text h2 {
     font-size: 35px;
     line-height: normal;
     margin-bottom: 20px;
@@ -1286,7 +1287,7 @@ h2 {
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 97, /scss/_slider.scss */
-  .slider_area .title_text h1 {
+  .slider_area .title_text h2 {
     font-size: 46px;
     line-height: 55px;
     margin-bottom: 30px;
@@ -1295,7 +1296,7 @@ h2 {
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 97, /scss/_slider.scss */
-  .slider_area .title_text h1 {
+  .slider_area .title_text h2 {
     font-size: 45px;
     line-height: 70px;
     margin-bottom: 20px;
